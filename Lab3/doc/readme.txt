@@ -1,6 +1,6 @@
 Instruções para "construir" as imagens com os Dockerfiles:
 
-- No com WSL mudar diretório para "src" do nosso projecto - 
+- No WSL mudar diretório para "src" do nosso projecto - 
 
 Server: 
 docker build --file server.Dockerfile --tag server .
