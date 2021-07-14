@@ -1,3 +1,3 @@
 # lab3
 
-University work program of a Java RMI Server allowing RPC (remote procedures calls), running with docker containers. Dockerfile(s) scripts optimized to automatically to easy setup containers and execute the program. 
+University work program of a one RMI (Remote Method Invocation) Server running with Docker containers. Dockerfiles scripts are optimized to automatically ease setup containers and execute the program.
